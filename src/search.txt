@@ -1,0 +1,3 @@
+Search by ID
+Search by Name
+Search by Department
