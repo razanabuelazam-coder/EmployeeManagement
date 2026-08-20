@@ -1,1 +1,4 @@
 Login Module
+Password validation
+Forgot password
+Remember me
