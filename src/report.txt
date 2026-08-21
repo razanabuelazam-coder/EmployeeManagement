@@ -1,1 +1,4 @@
 Reporting Module
+Monthly Reports
+Annual Reports
+Export PDF
